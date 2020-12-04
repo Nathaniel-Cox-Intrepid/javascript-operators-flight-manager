@@ -1,3 +1,5 @@
+"use strict";
+
 const { sum, assert } = require("../logic/util");
 
 function Passengers() {

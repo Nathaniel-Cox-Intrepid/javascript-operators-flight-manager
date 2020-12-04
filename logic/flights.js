@@ -1,3 +1,5 @@
+"use strict";
+
 const { isPositiveInteger, sum, assert } = require("../logic/util");
 
 function Flights() {
